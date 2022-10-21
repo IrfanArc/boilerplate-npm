@@ -1,6 +1,7 @@
 {
 	"author":"Irfan Rashid",
 	"description": "This is a project for learning npm package ceveats.",
+	"keywords":["freecodecamp","npm","beginner","nodejs"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
